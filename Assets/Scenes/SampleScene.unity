@@ -476,12 +476,8 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6607577355057406455, guid: cd1b26dc09cf2df4fb37fd57ba517cd0, type: 3}
-      propertyPath: _takeDamageButton
-      value: 250
-      objectReference: {fileID: 0}
-    - target: {fileID: 6607577355057406455, guid: cd1b26dc09cf2df4fb37fd57ba517cd0, type: 3}
-      propertyPath: _takeHealthButton
-      value: 100
+      propertyPath: _speedColorChange
+      value: 0.05
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
